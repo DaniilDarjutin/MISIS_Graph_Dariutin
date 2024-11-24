@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Graph", "Graph\Graph.csproj", "{E9FD7FD5-458B-48C2-982D-F679303652E0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DFS_DariutinDD", "..\..\..\DFS_DariutinDD\DFS_DariutinDD\DFS_DariutinDD.csproj", "{246AFC02-1978-43EC-864E-8E104C2BE136}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{E9FD7FD5-458B-48C2-982D-F679303652E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E9FD7FD5-458B-48C2-982D-F679303652E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E9FD7FD5-458B-48C2-982D-F679303652E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{246AFC02-1978-43EC-864E-8E104C2BE136}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{246AFC02-1978-43EC-864E-8E104C2BE136}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{246AFC02-1978-43EC-864E-8E104C2BE136}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{246AFC02-1978-43EC-864E-8E104C2BE136}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
